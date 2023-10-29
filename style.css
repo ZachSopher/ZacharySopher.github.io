@@ -53,13 +53,13 @@
 }
 
 .content {
-  width: 100%;
   position: absolute;
   top: 40%;
   transform: translateY(-50%);
   text-align: center;
   color: darkolivegreen;
   border: 1px solid black;
+  margin: auto;
 }
 
 .content h1 {

@@ -5,10 +5,9 @@
 }
 
 .content {
-    top: 40%;
-    transform: translateY(30%);
-    text-align: center;
-    color: darkolivegreen;
+    transform: translateY(75%);
+    text-align: left;
+    color: black;
     margin: auto;
     width: 50%;
 }
